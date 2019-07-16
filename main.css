@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(17, 77, 59);
+    font-size: 18px;
+}
+
+h2 {
+    color: rgb(4, 73, 4);
+    font-size: 16px;
+}
+
+h3 {
+    color: rgb(56, 56, 107);
+    font-size: 14px;
+}
+text {
+    color: black;
+    font-size: 11px;
+}
